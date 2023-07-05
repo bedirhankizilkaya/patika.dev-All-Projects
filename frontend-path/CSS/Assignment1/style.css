@@ -1,0 +1,21 @@
+.baslik {
+    text-align: center;
+}
+
+body {
+    background-color: #dfddec ;
+    text-align: center;
+}
+
+.item li {
+    display: inline;
+    color: darkslategray;
+  }
+  
+  h2 {
+    color: rgb(10, 10, 117);
+  }
+
+  h3 {
+    color: chocolate;
+  }
